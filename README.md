@@ -6,7 +6,7 @@ I use github to experiment with coding and for version control for my Unreal Eng
 
 # 💻 Tech Stack:
 
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&line1=html5%2CHTML%2C7e8bff%3Bcss3%2CCSS%2Cb23b72%3Bjavascript%2CJavascript%2C48762b%3Bpython%2CPython%2Ce6b30c%3Bcplusplus%2CC%2B%2B+UE%2C52df63%3Bblueprint%2CBlueprinting+UE%2Cf1e61a%3B)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=social&logo=csharp&logoColor=white)
 
 
 
