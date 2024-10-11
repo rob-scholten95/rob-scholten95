@@ -6,7 +6,7 @@ I use github to experiment with coding and for version control for my Unreal Eng
 
 # 💻 Tech Stack:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=social&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 
