@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on innovative web development projects and improving my skills in full-stack development.<br>👯 I’m looking to collaborate on open-source projects, and learning about new technologies and languages.<br>🌱 I’m currently learning more about Python, Javascript and creating production ready applications.<br>💬 Ask me about JavaScript, Python, or workflow automation.<br>⚡ Fun fact: I was trained as an Game Develeper, with a focus on 3D-modelling.
 
-I use github to experiment with coding and for version control for my Unreal Engine projects, inn which I use C++ and Blueprinting
+I use github to experiment with coding and for version control for my Unreal Engine projects, in which I use C++ and Blueprinting
 
 
 # 💻 Tech Stack:
